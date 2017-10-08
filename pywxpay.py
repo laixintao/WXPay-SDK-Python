@@ -8,7 +8,7 @@ import uuid
 import requests
 import sys
 
-import xml.etree.ElementTree as ElementTree
+from xml.etree.ElementTree import ElementTree
 
 
 try:
